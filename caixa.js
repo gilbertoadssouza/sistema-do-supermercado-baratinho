@@ -1,8 +1,8 @@
-import Carrinho from "./carrinho.js";
-import Produto from "./produtos/produto.js";
-import Carro from "./produtos/carro.js";
-import Limpeza from "./produtos/limpeza.js";
-import Alimentacao from "./produtos/alimentacao.js";
+import Carrinho from "/carrinho.js";
+import Produto from "/produtos/produto.js";
+import Carro from "/produtos/carro.js";
+import Limpeza from "/produtos/limpeza.js";
+import Alimentacao from "/produtos/alimentacao.js";
 
 const nomeProduto = document.querySelector("#nomeProd");
 const valorProduto = document.querySelector("#valorProd");
